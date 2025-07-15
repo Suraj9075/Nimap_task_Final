@@ -1,4 +1,7 @@
 🧩 Client & Project Management API
+
+
+
 A Django REST Framework project to manage Clients and their Projects, with support for assigning existing Users to Projects.
 
 This API allows you to:
