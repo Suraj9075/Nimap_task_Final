@@ -2,17 +2,11 @@
 A Django REST Framework project to manage Clients and their Projects, with support for assigning existing Users to Projects.
 
 This API allows you to:
-
 Register and manage Clients
-
 Create and assign Projects under Clients
-
 Assign multiple existing Users to a Project
-
 Retrieve all Projects assigned to a specific user (simulated)
-
 Automatically track who created what and when
-
 Work without actual authentication (uses default users like 'Rohit', 'Ganesh' internally)
 
 🚀 Features
@@ -24,9 +18,7 @@ Work without actual authentication (uses default users like 'Rohit', 'Ganesh' in
 
 🛠️ Tech Stack
 Backend: Django, Django REST Framework
-
 Database: SQLite (easily switchable to PostgreSQL/MySQL)
-
 Language: Python 3.11+
 
 📁 Endpoints Overview
